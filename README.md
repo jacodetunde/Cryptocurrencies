@@ -7,3 +7,4 @@ The project involves using pandas to clean and preprocess the data so as to fit 
 ## Results 
 ![result_1.png](result_1.png)
 
+![result_2.png](result_2.png)
